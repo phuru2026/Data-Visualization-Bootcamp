@@ -11,5 +11,5 @@ Bar charts and Stacked bars are used to compare categorical data and in here the
 Pie Charts and Donut Charts represent the categorical contribution to metric in percentages and the percentage sums up to 100. In here, they were used on different datasets and they all add up to 100.
 I also used scorecard to sum up our numeric data (e.g. revenue, sales, no. of products) and added buttons to control our pages.
 
-##Summary
+## Summary
 Google Looker Studio made it easier to build different dashboards and they all run well in view mode.
