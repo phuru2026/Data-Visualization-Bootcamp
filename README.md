@@ -1,9 +1,9 @@
 ## Data-Visualization-Bootcamp
 In this repository, we will be looking at dashboards that were created during the April Bootcamp
-These visuals were created using Google Looker Studio and three datasets were visualized.
+These visuals were created using Google Looker Studio and two datasets were visualized.
 
 ## Datasets
-Bright Coffee Shop, Bright Retail Sales, and Bright Shopping Trends datasets were uploaded as CSV files and then different charts were used to visualize the data.
+Bright Coffee Shop and Bright Retail Sales datasets were uploaded as CSV files and then different charts were used to visualize the data.
 
 ## Charts
 Line graph is used for ranking data and in this case it was used to measure the trends of the revenue overtime.
