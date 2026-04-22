@@ -13,3 +13,7 @@ Bright Coffee Shop and Bright Retail Sales datasets were uploaded as CSV files a
 
 ## Summary
 Google Looker Studio made it easier to build different dashboards and they all run well in view mode.
+
+- Tool links: - Bright Coffee Shop Analysis <https://datastudio.google.com/s/lcu_N8xtrlU>
+              - Bright Retail Sales Analysis <https://datastudio.google.com/s/mllt4yuQwxQ>
+
